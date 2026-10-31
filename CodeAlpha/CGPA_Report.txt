@@ -1,0 +1,37 @@
+========================================================================
+                     STUDENT ACADEMIC PERFORMANCE REPORT                
+                           CodeAlpha Internship                         
+========================================================================
+ Student Name : Abhyanand Pathak
+ Student ID   : CA-2026-001
+ Scale Used   : 10.0 Scale
+========================================================================
+
+[Previous Academic Record]
+ - Previous Credits Earned     : 80.0
+ - Previous Total Grade Points : 680.00
+ - Previous Cumulative GPA     : 8.50
+
+------------------------------------------------------------------------
+                       SEMESTER 5 GRADE REPORT
+------------------------------------------------------------------------
+No.   Course Code   Course Name              Credits   Grade   Grade Pts
+------------------------------------------------------------------------
+1     CS501         Database Management...       4.0       O       40.00
+2     CS502         Operating Systems            4.0      A+       36.00
+3     CS503         Design and Analysis...       4.0       A       32.00
+4     CS504         Operating Systems Lab        2.0       O       20.00
+------------------------------------------------------------------------
+Semester Total:                                 14.0              128.00
+========================================================================
+  >> Semester 5 GPA (SGPA): 9.14
+========================================================================
+
+========================================================================
+                           FINAL SUMMARY                                
+========================================================================
+ Total Cumulative Credits Earned     : 94.0
+ Total Cumulative Grade Points       : 808.00
+ Overall CGPA                        : 8.60
+ Academic Standing / Remark          : Excellent (First Class)
+========================================================================
